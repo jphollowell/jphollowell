@@ -15,3 +15,5 @@ Second edit made in FirstBranch
 Third Edit in Main
 
 Fourth Edit made in FirstBranch after the third edit was made directly in Main. Should be a conflict.
+
+Fifth edit would like to fork it.
