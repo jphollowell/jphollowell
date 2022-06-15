@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 First edit at 10:42am
 
 Second edit made in FirstBranch
+
+Fourth Edit made in FirstBranch after the third edit was made directly in Main. Should be a conflict.
